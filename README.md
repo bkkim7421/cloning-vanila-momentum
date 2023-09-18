@@ -1,4 +1,4 @@
-hello yim
-hello kim
-hello lee
-hello kang
+Hello, Yim
+Hello, Kim
+Hello, Lee
+Hello, Kang
